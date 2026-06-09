@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3.24
 
 # renovate: datasource=github-tags depName=pritunl/pritunl
 ENV VERSION 1.30.3153.83
